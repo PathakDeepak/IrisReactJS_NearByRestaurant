@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/IrisReactJS_NearByRestaurant/static/css/main.24fbdfe9.chunk.css",
+    "main.js": "/IrisReactJS_NearByRestaurant/static/js/main.74abe209.chunk.js",
+    "main.js.map": "/IrisReactJS_NearByRestaurant/static/js/main.74abe209.chunk.js.map",
+    "runtime-main.js": "/IrisReactJS_NearByRestaurant/static/js/runtime-main.61834d76.js",
+    "runtime-main.js.map": "/IrisReactJS_NearByRestaurant/static/js/runtime-main.61834d76.js.map",
+    "static/js/2.9fb09424.chunk.js": "/IrisReactJS_NearByRestaurant/static/js/2.9fb09424.chunk.js",
+    "static/js/2.9fb09424.chunk.js.map": "/IrisReactJS_NearByRestaurant/static/js/2.9fb09424.chunk.js.map",
+    "static/js/3.88e2c24b.chunk.js": "/IrisReactJS_NearByRestaurant/static/js/3.88e2c24b.chunk.js",
+    "static/js/3.88e2c24b.chunk.js.map": "/IrisReactJS_NearByRestaurant/static/js/3.88e2c24b.chunk.js.map",
+    "index.html": "/IrisReactJS_NearByRestaurant/index.html",
+    "static/css/main.24fbdfe9.chunk.css.map": "/IrisReactJS_NearByRestaurant/static/css/main.24fbdfe9.chunk.css.map",
+    "static/js/2.9fb09424.chunk.js.LICENSE.txt": "/IrisReactJS_NearByRestaurant/static/js/2.9fb09424.chunk.js.LICENSE.txt",
+    "static/media/HomePage.styles.css": "/IrisReactJS_NearByRestaurant/static/media/Restaurant-Food.4006358c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.61834d76.js",
+    "static/js/2.9fb09424.chunk.js",
+    "static/css/main.24fbdfe9.chunk.css",
+    "static/js/main.74abe209.chunk.js"
+  ]
+}
