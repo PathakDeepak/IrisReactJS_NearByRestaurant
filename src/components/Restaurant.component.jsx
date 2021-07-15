@@ -15,7 +15,7 @@ const Restaurant = ({
   rating_color,
 }) => {
   return (
-    <div className="restaurant-tile">
+    <div className="restaurant-tile" data-testid='restaurant-test-id'>
       <img alt="" src={image} className="rest-img" />
       <div className="rest-rating">
         <p style={{ backgroundColor: `${rating_color}` }}>{rating}</p>

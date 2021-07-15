@@ -49,7 +49,7 @@ const CityChooseForm = () => {
   };
 
   return (
-    <div>
+    <div data-testid='cityChooseForm-test'>
       <form className="searchBar" onSubmit={getSearch}>
         <div>
           <select

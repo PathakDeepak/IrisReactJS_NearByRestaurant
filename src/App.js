@@ -5,7 +5,7 @@ import HomePage from './pages/HomePage/HomePage.component';
 
 function App() {
   return (
-    <div className="App">
+    <div className="App" data-testid='app-test-id'>
     <HomePage />
     </div>
   );

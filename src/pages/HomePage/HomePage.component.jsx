@@ -12,8 +12,8 @@ const HomePage = () => {
     restaurant = restaurant.initialState
   }
   return (
-    <div className="homepage" >
-      <div className="foodJoint" data-testid='todo-1'>
+    <div className="homepage" data-testid='homepage-test'>
+      <div className="foodJoint" >
         <h1>Best Restaurant Near You</h1>
         <CityChooseForm />
       </div>
